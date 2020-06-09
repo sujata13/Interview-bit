@@ -1,2 +1,1 @@
-# Interview-bit
-Collection of Solutions of Interview Bit
+Collection of Solutions of problem solved by me on Interview Bit
